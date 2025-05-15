@@ -1,2 +1,2 @@
 # To-Do-List
-Task anageer using mern stack
+Task Manager using mern stack
